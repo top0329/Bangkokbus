@@ -8,7 +8,7 @@
 	},
 	"dependencies": {
 		"react": "16.0.0-alpha.12",
-		"react-native": "0.46.4",
+		"react-native": "0.83.1",
 		"react-native-autocomplete-input": "^3.3.1",
 		"react-native-dismiss-keyboard": "^1.0.0",
 		"react-native-elements": "^0.15.0",
@@ -21,10 +21,10 @@
 		"realm": "^20.2.0"
 	},
 	"devDependencies": {
-		"babel-jest": "20.0.3",
-		"babel-plugin-flow-react-proptypes": "^4.1.0",
+		"babel-jest": "30.2.0",
+		"babel-plugin-flow-react-proptypes": "^26.0.0",
 		"babel-preset-react-native": "2.1.0",
-		"jest": "20.0.4",
+		"jest": "30.2.0",
 		"react-test-renderer": "16.0.0-alpha.12"
 	},
 	"jest": {
