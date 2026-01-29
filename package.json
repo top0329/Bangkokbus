@@ -16,7 +16,7 @@
 		"react-native-maps": "^0.15.3",
 		"react-native-popup-dialog": "^0.9.33",
 		"react-native-segmented-control-tab": "^3.2.1",
-		"react-native-vector-icons": "^4.3.0",
+		"react-native-vector-icons": "^10.3.0",
 		"react-navigation": "^1.0.0-beta.11",
 		"realm": "^20.2.0"
 	},
